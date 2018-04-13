@@ -1,2 +1,0 @@
-this new file created
-new linenew line in  1.txt
